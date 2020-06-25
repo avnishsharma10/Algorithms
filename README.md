@@ -1,1 +1,2 @@
-# Data-structres-and-algorithms
+# Algorithms
+Important searching, sorting and greedy Algorithms in java.
